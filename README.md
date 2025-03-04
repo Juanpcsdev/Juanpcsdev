@@ -43,7 +43,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanpcsdev&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanpcsdev&locale=en&hide_title=false&layout=compact&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanpcsdev&theme=midnight-purple&hide_border=false"" alt="juanpcsdev"
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=juanpcsdev&theme=midnight-purple&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
 </div>
 
 <br clear="both">
